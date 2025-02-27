@@ -1,9 +1,24 @@
 h1{ 
     color:chocolate
 }
+
 h2{
     color:darkslategrey
 }
+
 p{
     color:rgb(41, 68, 68)
+}
+h3{
+    color: sienna;
+}
+
+.section_list{
+    color: rgb(27, 91, 210);
+}
+.secondlist_enhancement{
+color: rgb(26, 91, 212);
+}
+.sectiondiv_paragraph{
+border: 200px sienna
 }
